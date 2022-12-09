@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitovFt210007Lab11(netcore)", "TitovFt210007Lab11(netcore)\TitovFt210007Lab11(netcore).csproj", "{FF424ACD-D860-4357-894B-1E2D439BDF7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF424ACD-D860-4357-894B-1E2D439BDF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF424ACD-D860-4357-894B-1E2D439BDF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF424ACD-D860-4357-894B-1E2D439BDF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF424ACD-D860-4357-894B-1E2D439BDF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75D8D782-2139-4982-AF5E-5484CC030A88}
+	EndGlobalSection
+EndGlobal
